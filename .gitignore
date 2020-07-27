@@ -1,0 +1,4 @@
+.history
+dist/*
+!dist/.keep
+!dist/hello_world.html
